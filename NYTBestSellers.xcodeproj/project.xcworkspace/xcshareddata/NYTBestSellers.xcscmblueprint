@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FD42337AB31E20A4D1C5C225444B0596A147EAAB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5BB1F08AEEE92FC1744AD1FE8BDE36104E769EE3" : 9223372036854775807,
+    "FD42337AB31E20A4D1C5C225444B0596A147EAAB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B28E3BC2-1925-4B30-9126-82B6A16A441A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5BB1F08AEEE92FC1744AD1FE8BDE36104E769EE3" : "iOS\/NYTimes-BestSeller-Book\/",
+    "FD42337AB31E20A4D1C5C225444B0596A147EAAB" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NYTBestSellers",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NYTBestSellers\/NYTBestSellers.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vinit5320\/NYTimes-BestSeller-Book",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BB1F08AEEE92FC1744AD1FE8BDE36104E769EE3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kho226\/windly.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD42337AB31E20A4D1C5C225444B0596A147EAAB"
+    }
+  ]
+}
